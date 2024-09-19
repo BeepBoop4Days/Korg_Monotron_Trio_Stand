@@ -1,4 +1,5 @@
 # Korg_Monotron_Trio_Stand
+![Rotating Image of the Korg Monotron Trio Stand with Monotron, Duo, and Delay](/assets/images/Korg_Monotron_Trio_Stand.webp)
 ## Description
 A stand for the three [Korg Monotron](https://www.korg.com/us/products/dj/monotron/) synths
 
